@@ -35,7 +35,7 @@ Time   | Agenda
 7.00pm | Start of event - _opening segment by host_
 7.05pm | Start of scheduled talks
 8.00pm | Open announcements - _open segment for anyone to make announcements_
-9.00pm | End of event
+8.30pm | Dappy Hour - _mingle with guests and speakers over 🍕_
 
 ## 📹 Recorded talks
 
@@ -62,17 +62,12 @@ There's usually a corresponding [issue](https://github.com/thedappers/sgmeetups/
 - Be punctual for the event; talks start at 7.00pm - _your talk may be rescheduled if you are late_
 - Bring your own equipment - _laptops, video adapters, power adapters, presenter clickers, etc._
 - Request for wifi access from the host
-- RSVP on [eventbrite.com](https://www.meetup.com/Singapore-JS) for the event - _this is for building security clearance_
+- RSVP on [eventbrite.com](https://www.thedappers.eventbrite.com) for the event - _this is for building security clearance_
 
-## 👋 Chat with our community
+## 👋 Chat with our community and Reach out to the organizers
 
-Come say hi to us on [Gitter](https://gitter.im/SingaporeJS/home).
+Come say hi to Dappers on [Telegram Group](https://t.me/thedappers).
 
-## 💬 Reach out to the organizers
+## 💬 Want to volunteer?
 
-The most effective way is to open an issue if you have questions, suggestions, or feedback.
-
-- For new job opportunities you'd like to list, open an [issue](https://github.com/SingaporeJS/jobs/issues/new)
-- For talk.js related matters, open an [issue](https://github.com/SingaporeJS/talk.js/issues/new)
-- For other matters, open an [issue](https://github.com/SingaporeJS/organizers/issues/new)
-- Reach out to us on the organizers' channel on [Gitter](https://gitter.im/SingaporeJS/organizers)
+The most effective way is to send us a message in our [Telegram Group](https://t.me/thedappers)
